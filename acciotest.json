@@ -1,0 +1,4 @@
+{
+    "testRepo": "dropdown-testcases",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
